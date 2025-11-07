@@ -1,0 +1,20 @@
+{
+  "dark": {  
+    "primaryBg": "#0F1115",
+    "secondaryBg": "#1b1E24",
+    "primaryText": "#EAECEF",
+    "secondaryText": "#9AA0A6",
+    "primaryAccent": "#103E7E",
+    "secondaryAccent": "#126F5B",
+    "err": "#E06060"
+  },
+  "light": {
+    "primaryBg": "#FFFFFF",
+    "secondaryBg": "#F5F7FA",
+    "primaryText": "#1C1E21",
+    "secondaryText": "#5C5F63",
+    "primaryAccent": "#0B3D91",
+    "secondaryAccent": "#1E6F5C",
+    "err": "#D64545"
+  }
+}
